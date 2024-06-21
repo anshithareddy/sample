@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&family=Playwrite+US+Trad:wght@100..400&display=swap');
+nav{
+    font-family: "Playwrite US Trad", cursive;
+  font-optical-sizing: auto;
+  background-image: linear-gradient(#a0d3ed,#53616d00);
+  box-shadow: 2px -2px #272c3000;
+}
+.icon1,.icon2{
+    font-size: 1.5rem;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 60px; /* Adjust based on your navbar's height */
+  z-index: 1000;
+  background-color: #fff; /* or any other color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

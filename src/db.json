@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "",
+      "password": "anshusji",
+      "email": "ansh@gmail.com",
+      "dob": "2024-01-01",
+      "id": "cc51"
+    },
+    {
+      "id": "92af",
+      "üsername": "bvj",
+      "password": "vjg",
+      "email": "vg@gm.com",
+      "dob": "2024-06-10"
+    },
+    {
+      "id": "6c86",
+      "üsername": "nk",
+      "password": "njkjn",
+      "email": "nklk@gmail.com",
+      "dob": "2024-06-28"
+    },
+    {
+      "id": "890f",
+      "üsername": "b mbj",
+      "password": "bhbjj",
+      "email": "bjhu@gmail.com",
+      "dob": "2024-06-28"
+    }
+  ],
+  "removedUsers": []
+}
